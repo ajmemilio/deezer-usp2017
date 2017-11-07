@@ -6,14 +6,6 @@ Created on Tue May 23 22:45:39 2017
 @author: joao
 """
 
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 21 12:05:35 2017
-
-@author: joao
-"""
-
 import numpy as np
 import pandas as pd
 import sqlite3 as db
